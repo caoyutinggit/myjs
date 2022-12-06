@@ -1,1 +1,1 @@
-# myjs
+# test js script
